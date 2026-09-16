@@ -1,0 +1,14 @@
+{
+  "name": "fruit-shop-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "ربات پاسخ‌گوی خودکار قیمت میوه و تره‌بار روی واتساپ بیزینس (با Green API)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
